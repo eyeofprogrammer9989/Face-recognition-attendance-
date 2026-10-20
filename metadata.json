@@ -1,0 +1,6 @@
+{
+  "name": "Face Attendance System",
+  "description": "Browser-based face recognition attendance system using face-api.js with live webcam detection, registration, and reporting.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
